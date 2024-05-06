@@ -4,11 +4,11 @@
 
 - Adicionar o caractere ">" entre cada rota na exibição.
   
-## Etapa atual do fluxo fica em negrito:
+### Etapa atual do fluxo fica em negrito:
 
 - Já está sendo aplicado uma classe de estilo `font-bold` à **etapa atual**. `selectedStyle`.
   
-## Quando o usuário navegar para uma etapa, o texto fica com um underline:
+### Quando o usuário navegar para uma etapa, o texto fica com um underline:
 
 - Para adicionar um sublinhado ao texto quando o usuário navegar para uma **etapa**, será necessário adicionar uma verificação semelhante à aplicada para o estilo negrito, mas com uma classe de sublinhado.
 
